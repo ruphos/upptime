@@ -16,12 +16,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Ruphos
   introTitle: "**Upptime** of Ruphos"
   introMessage: This is the upptime monitor of Ruphos systems.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/ruphos/upptime
 
