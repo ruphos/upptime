@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-website",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 758,
-    "timeDay": 664,
-    "timeWeek": 719,
-    "timeMonth": 758,
-    "timeYear": 758,
-    "dailyMinutesDown": {
-      "2024-04-04": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 741,
+    "timeDay": 494,
+    "timeWeek": 713,
+    "timeMonth": 741,
+    "timeYear": 741,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ruphos Backend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1982,
-    "timeDay": 906,
+    "time": 1921,
+    "timeDay": 632,
     "timeWeek": 2102,
-    "timeMonth": 1982,
-    "timeYear": 1982,
+    "timeMonth": 1921,
+    "timeYear": 1921,
     "dailyMinutesDown": {}
   }
 ]
