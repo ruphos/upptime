@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 825,
-    "timeWeek": 796,
-    "timeMonth": 786,
-    "timeYear": 786,
+    "time": 789,
+    "timeDay": 876,
+    "timeWeek": 791,
+    "timeMonth": 774,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "ruphos-backend",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1329,
-    "timeDay": 816,
-    "timeWeek": 771,
-    "timeMonth": 1329,
-    "timeYear": 1329,
+    "time": 1314,
+    "timeDay": 627,
+    "timeWeek": 770,
+    "timeMonth": 1358,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2024-04-23": 17
     }
