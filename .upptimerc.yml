@@ -7,6 +7,8 @@ sites:
     url: $RUPHOS_WEBSITE
   - name: Ruphos Backend
     url: $RUPHOS_SSO_BACKEND
+  - name: Ruphos Storage
+    url: $RUPHOS_STORAGE
   
 assignees: # Users to assign downtime issues (optional)
   - 0xD0M1M0
