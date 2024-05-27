@@ -22,18 +22,20 @@
     "url": "$RUPHOS_SSO_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 643,
-    "timeWeek": 681,
-    "timeMonth": 760,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 1050,
+    "timeDay": 619,
+    "timeWeek": 675,
+    "timeMonth": 756,
+    "timeYear": 1050,
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "Ruphos Storage",
