@@ -22,7 +22,7 @@
     "url": "$RUPHOS_SSO_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 741,
     "timeYear": 1014,
     "dailyMinutesDown": {
+      "2024-06-06": 0,
       "2024-05-27": 19
     }
   },
