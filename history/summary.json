@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 901,
-    "timeWeek": 981,
+    "time": 1012,
+    "timeDay": 869,
+    "timeWeek": 838,
     "timeMonth": 1214,
-    "timeYear": 1013,
+    "timeYear": 1012,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 721,
-    "timeWeek": 677,
-    "timeMonth": 721,
-    "timeYear": 989,
+    "time": 986,
+    "timeDay": 727,
+    "timeWeek": 685,
+    "timeMonth": 720,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "$RUPHOS_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1081,
-    "timeDay": 935,
-    "timeWeek": 1027,
-    "timeMonth": 1081,
-    "timeYear": 1081,
-    "dailyMinutesDown": {}
+    "time": 1079,
+    "timeDay": 1051,
+    "timeWeek": 1012,
+    "timeMonth": 1079,
+    "timeYear": 1079,
+    "dailyMinutesDown": {
+      "2024-06-09": 0
+    }
   }
 ]
