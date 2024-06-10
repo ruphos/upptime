@@ -40,19 +40,20 @@
     "url": "$RUPHOS_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 1051,
-    "timeWeek": 1012,
-    "timeMonth": 1079,
-    "timeYear": 1079,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1106,
+    "timeDay": 1289,
+    "timeWeek": 1081,
+    "timeMonth": 1106,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2024-06-09": 0
+      "2024-06-10": 56,
+      "2024-06-09": 3
     }
   }
 ]
