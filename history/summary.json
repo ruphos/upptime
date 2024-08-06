@@ -4,19 +4,19 @@
     "url": "$RUPHOS_WEBSITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruphos-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1277,
-    "timeWeek": 1176,
-    "timeMonth": 1260,
-    "timeYear": 1083,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
+    "time": 1088,
+    "timeDay": 1439,
+    "timeWeek": 1241,
+    "timeMonth": 1275,
+    "timeYear": 1088,
     "dailyMinutesDown": {
-      "2024-08-06": 9
+      "2024-08-06": 64
     }
   },
   {
