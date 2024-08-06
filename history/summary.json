@@ -6,9 +6,9 @@
     "slug": "ruphos-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1083,
     "timeDay": 1277,
@@ -16,7 +16,7 @@
     "timeMonth": 1260,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 9
     }
   },
   {
