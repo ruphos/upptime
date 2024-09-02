@@ -1,7 +1,7 @@
 url: $RUPHOS_STORAGE
-status: up
-code: 200
-responseTime: 1479
-lastUpdated: 2024-09-02T23:20:59.081Z
+status: down
+code: 503
+responseTime: 775
+lastUpdated: 2024-09-02T23:56:12.777Z
 startTime: 2024-05-23T18:19:30.310Z
 generator: Upptime <https://github.com/upptime/upptime>
