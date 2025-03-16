@@ -1,7 +1,7 @@
 url: $RUPHOS_WEBSITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-16T09:32:21.074Z
+status: up
+code: 200
+responseTime: 2927
+lastUpdated: 2025-03-16T09:39:04.872Z
 startTime: 2024-03-24T13:20:04.061Z
 generator: Upptime <https://github.com/upptime/upptime>
