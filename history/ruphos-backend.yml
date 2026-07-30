@@ -1,7 +1,7 @@
 url: $RUPHOS_SSO_BACKEND
-status: down
-code: 403
-responseTime: 657
-lastUpdated: 2026-07-30T10:48:51.422Z
+status: up
+code: 200
+responseTime: 853
+lastUpdated: 2026-07-30T12:16:00.627Z
 startTime: 2024-03-24T13:20:05.818Z
 generator: Upptime <https://github.com/upptime/upptime>
